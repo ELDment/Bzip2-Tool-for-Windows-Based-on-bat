@@ -15,3 +15,6 @@
 4.按照程序指示填入设置并回车
 
 5.压缩完成！
+
+![Image text]https://github.com/ELDment/Bzip2-Tool-for-Windows-Based-on-bat/settings/og-template)
+https://github.com/ELDment/Bzip2-Tool-for-Windows-Based-on-bat/settings/og-template
