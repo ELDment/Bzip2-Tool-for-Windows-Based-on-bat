@@ -1,8 +1,6 @@
 # **Bzip2 Tool for Windows (Based on bat)**
 本脚本是基于[bzip2-windows](https://github.com/philr/bzip2-windows)开发的**批量**压缩工具
 
-本人代码写≈Trash，大家对付用吧...
-
 # **使用方法：**
 1.把压缩包解压至任意位置
 
