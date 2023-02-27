@@ -13,3 +13,19 @@
 4.按照程序指示填入设置并回车
 
 5.压缩完成！
+
+# **Bzip2 Tool for Windows (Based on bat)**
+This script is a **batch** compression tool developed based on [bzip2-windows](https://github.com/philr/bzip2-windows)
+
+# **Instructions:**
+1. Unzip the compressed package to any location
+
+2. Copy the folder that needs to be compressed in batches to the directory where Bzip2 Tool.bat is located
+
+3. Drag the folder to be encrypted to Bzip Tool.bat
+
+(Display to open with Bzip Tool.bat) [Note: This step is not to run Bzip Tool.bat directly]
+
+4. Fill in the settings according to the program instructions and press Enter
+
+5. Compression is complete!
